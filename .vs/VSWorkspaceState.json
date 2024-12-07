@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NetflixApi",
+    "\\NetflixApi\\Controllers",
+    "\\NetflixApi\\Data",
+    "\\NetflixApi\\Model",
+    "\\NetflixApi\\Services"
+  ],
+  "SelectedNode": "\\NetflixApi\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}

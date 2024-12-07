@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hyRNJZ0MeGXRuVyOc+4xdryjLUy/bPepgSvKR70dgNk=",
+  "Source": "NetflixApi",
+  "BasePath": "_content/NetflixApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
